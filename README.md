@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Aditya from KIET Group of Institutions<br><br>- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning new technologies to enhance my skills<br>- ⚡ In my free time, I enjoy exploring innovative projects and working on personal development</p>
 
 ###
 
