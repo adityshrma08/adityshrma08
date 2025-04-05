@@ -1,7 +1,3 @@
-<!-- Professional Banner -->
-<div align="center">
-  <img src="https://readme-hero.vercel.app/api?username=adityshrma08&bg=rgba(255,255,255,0)&text=Hey,%20I'm%20Aditya%20Sharma%20🚀&description=A%20passionate%20Web%20Developer%20from%20India%20who%20loves%20building%20cool%20stuff!&font=Roboto&textColor=%23000000&descColor=%23464646&fontSize=26&descSize=18&animation=fadeInDown" />
-</div>
 
 
 ###
