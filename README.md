@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/aditya-sharma-275057256/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/YourTelegramUsername" target="_blank">
+  <a href="https://t.me/sharmadityaa" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-29A9EA?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="Telegram" />
   </a>
   <a href="https://x.com/Adityshrma08" target="_blank">
